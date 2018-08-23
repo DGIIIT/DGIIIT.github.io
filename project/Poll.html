@@ -1,5 +1,6 @@
 
 
+
 <!doctype html>
 <html ⚡>
 <head>
@@ -43,3 +44,80 @@ form.amp-form-submit-success [submit-success] {
   float: right;
   width: 60px;
 }
+</style>
+</head>
+<body>
+
+<h2 class="p1">Flightless bird poll</h2>
+
+
+<form method="post" action-xhr="/samples_templates/poll/submit" target="_blank"
+      id="poll1"
+      custom-validation-reporting="as-you-go">
+    <input name="clientId" type="hidden" value="CLIENT_ID(POLL_USER_ID)" data-amp-replace="CLIENT_ID">
+    <fieldset class="m1 p1 ampstart-card">
+        <h3 class="pb1">What is your favorite flightless bird?</h3>
+        <p>Choose your favourite flightless bird and you will discover what other users have chosen.
+        If you have already voted, your answer will be overwritten.</p>
+
+          
+              <div class="ampstart-input ampstart-input-radio block relative m0 p0 mt1 ">
+                <input type="radio" value="0" name="answer" id="0" class="relative" on="change:poll1.submit">
+                <label for="0" class="">Penguins</label>
+              </div>
+          
+              <div class="ampstart-input ampstart-input-radio block relative m0 p0 mt1 ">
+                <input type="radio" value="1" name="answer" id="1" class="relative" on="change:poll1.submit">
+                <label for="1" class="">Ostriches</label>
+              </div>
+          
+              <div class="ampstart-input ampstart-input-radio block relative m0 p0 mt1 ">
+                <input type="radio" value="2" name="answer" id="2" class="relative" on="change:poll1.submit">
+                <label for="2" class="">Kiwis</label>
+              </div>
+          
+              <div class="ampstart-input ampstart-input-radio block relative m0 p0 mt1 ">
+                <input type="radio" value="3" name="answer" id="3" class="relative" on="change:poll1.submit">
+                <label for="3" class="">Wekas</label>
+              </div>
+          
+    </fieldset>
+    <div submit-success class="ml1">
+        <template type="amp-mustache">
+          <p class="pt1">{{Message}}</p>
+          <p class="pt1">Here are the results:</p>
+          <div class="ampstart-card mt1 mr1 p1">
+            <span class="fixed-sixe-cell">Answer</span>
+            <span class="fixed-size-cell">&nbsp;</span>
+            <span>&nbsp;</span>
+            <span class="fixed-size-cell votes-cell">Votes</span>
+            {{#PollEntryResults}}
+            <div class="mt1 relative">
+                <span class="fixed-size-cell">
+                  {{Answer}}
+                </span>
+                <span class="fixed-size-cell">
+                  {{Percentage.length}}%
+                </span>
+
+                <span class="percentage-container-fixed">
+                    {{#Percentage}}<span class="one-pc-fixed"></span>{{/Percentage}}
+                </span>
+
+                <span class="fixed-size-cell votes-cell">
+                  {{Votes}}
+                </span>
+              </div>
+            {{/PollEntryResults}}
+
+          </div>
+        </template>
+    </div>
+    <div submit-error>
+      <template type="amp-mustache">
+        Error! Looks like something went wrong with your vote, please try to submit it again. {{error}}
+      </template>
+    </div>
+</form>
+</body>
+</html>
