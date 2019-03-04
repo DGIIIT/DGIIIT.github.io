@@ -23,6 +23,7 @@ Currently the members of group are students of IIIT Bhagalpur inclusive of Compu
 All the communications are done through 
 * [IRC(Internet Relay Chat)](https://matrix.to/#/#DG_Community:matrix.org)
 * [Slack](https://dgiiit.slack.com)
+* [Twitter](https://twitter.com/DgIiit)
 * [Facebook page](https://m.facebook.com/DG-Community-IIIT-Bhagalpur-177777156160101).
 
 ## Culture:
