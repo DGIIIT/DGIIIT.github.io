@@ -1,6 +1,6 @@
-# DG Homepage
+# Developer's Group Homepage
 
-This is official website of [Developer's Group : IIIT Bhagalpur](https://dgiiit.github.io).
+This is official website of [Developer's Group : IIIT Bhagalpur](https://dgiiit.github.io) v 2.0.
 
 previous version v 1.0 [DG IIIT](https://dgiiit.github.io/DG-IIITBH.github.io/IIITPreface.html)
 
