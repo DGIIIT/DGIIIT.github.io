@@ -1,6 +1,6 @@
 # DG Homepage
 
-This is official website of [DG Community : IIIT Bhagalpur](https://dg-iiitbh.github.io).
+This is official website of [Developer's Group : IIIT Bhagalpur](https://dgiiit.github.io).
 
 # Summary
 [Saichethan Reddy](https://github.com/Saichethan) along with two other  Undergraduate students of [IIIT Bhagalpur](http://iiitbh.ac.in) started an organization called  [DG Community : IIIT Bhagalpur](https://github.com/DGIIIT) to get people together who share common struggles 
@@ -19,7 +19,7 @@ Currently the members of group are students of IIIT Bhagalpur inclusive of Compu
 > Co-Founder.
 ## Communication:
 All the communications are done through 
-* [IRC(Internet Relay Chat](https://matrix.to/#/#DG_Community:matrix.org)
+* [IRC(Internet Relay Chat)](https://matrix.to/#/#DG_Community:matrix.org)
 * [Slack](https://dgiiit.slack.com)
 * [Facebook page](https://m.facebook.com/DG-Community-IIIT-Bhagalpur-177777156160101).
 
@@ -27,6 +27,7 @@ All the communications are done through
 * We believe in equality
 * We always welcome you
 * We appreciate your support even if you think you did small part
+* Freedom of idea's, speech are our at our core
 
 # Proposal
 
