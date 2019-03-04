@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# DG Homepage
 
-You can use the [editor on GitHub](https://github.com/DGIIIT/DGIIIT.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is official website of [DG Community : IIIT Bhagalpur](https://dg-iiitbh.github.io).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Summary
+[Saichethan Reddy](https://github.com/Saichethan) along with two other  Undergraduate students of [IIIT Bhagalpur](http://iiitbh.ac.in) started an organization called  [DG Community : IIIT Bhagalpur](https://github.com/DGIIIT) to get people together who share common struggles 
+![Logo](https://github.com/DGIIIT/DG-IIITBH.github.io/blob/master/img/logo.svg)
+## Inception
+02 January 2018
+## Reason
+Bhagalpur is a technically very backward region and IIIT Bhagalpur is a newly established institute so, to improve skills and for exposure we started this club. 
+## Community Demographics:
+Currently the members of group are students of IIIT Bhagalpur inclusive of Computer science and Electronics branches.
+* [Saichethan Reddy](https://www.facebook.com/SaichethanReddyMiriyal) 
+> Author, Founder.
+* [Pritam Pal](https://www.facebook.com/pritampal99) 
+> Co-Founder.
+* [Anuranjan](https://www.facebook.com/anuranjan.kumar.188) 
+> Co-Founder.
+## Communication:
+All the communications are done through 
+* [IRC(Internet Relay Chat](https://matrix.to/#/#DG_Community:matrix.org)
+* [Slack](https://dgiiit.slack.com)
+* [Facebook page](https://m.facebook.com/DG-Community-IIIT-Bhagalpur-177777156160101).
 
-### Markdown
+## Culture:
+* We believe in equality
+* We always welcome you
+* We appreciate your support even if you think you did small part
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Proposal
 
-```markdown
-Syntax highlighted code block
+## Community Demographics:
+* [IIIT Bhagalpur](http://iiitbh.ac.in)
 
-# Header 1
-## Header 2
-### Header 3
+## Goal
+* Workshops
+* Hackathons
+* OpenSource
 
-- Bulleted
-- List
+## Impact
 
-1. Numbered
-2. List
+### Target Audience
+K-12, Undergraduate students
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## TODOS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DGIIIT/DGIIIT.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Improve UI.
+* Add a Logo
+* Update Content
+* Increase Community
 
-### Support or Contact
+https://codelabs.developers.google.com/codelabs/firebase-web/#0
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Check Wiki for more information.](https://github.com/DGIIIT/DGIIIT.github.io/wiki)
+
