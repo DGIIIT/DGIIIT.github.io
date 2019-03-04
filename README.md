@@ -2,6 +2,8 @@
 
 This is official website of [Developer's Group : IIIT Bhagalpur](https://dgiiit.github.io).
 
+previous version v 1.0 [DG IIIT](https://dgiiit.github.io/DG-IIITBH.github.io/IIITPreface.html)
+
 # Summary
 [Saichethan Reddy](https://github.com/Saichethan) along with two other  Undergraduate students of [IIIT Bhagalpur](http://iiitbh.ac.in) started an organization called  [DG Community : IIIT Bhagalpur](https://github.com/DGIIIT) to get people together who share common struggles 
 ![Logo](https://github.com/DGIIIT/DG-IIITBH.github.io/blob/master/img/logo.svg)
