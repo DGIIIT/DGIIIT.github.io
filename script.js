@@ -3,7 +3,7 @@ const butInstall = document.getElementById('butInstall');
 
 /* Put code here */
 
-
+navigator.serviceWorker.register('/service-worker.js');
 
 /* Only register a service worker if it's supported */
 if ('serviceWorker' in navigator) {
