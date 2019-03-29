@@ -72,7 +72,7 @@ input, select, textarea {
 	appearance: none;
 }
 
-/* Basic */
+/* Basic <!---#242943;-->*/
 
 	@-ms-viewport {
 		width: device-width;
@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242943;
+		background: #FF1744; 
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
