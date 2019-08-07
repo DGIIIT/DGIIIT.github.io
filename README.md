@@ -5,7 +5,7 @@ This is official website of [Developer's Group : IIIT Bhagalpur](https://dgiiit.
 previous version v 1.0 [DG IIIT](https://dgiiit.github.io/DG-IIITBH.github.io/IIITPreface.html)
 
 # Summary
-[Saichethan Reddy](https://github.com/Saichethan) along with two other  Undergraduate students of [IIIT Bhagalpur](http://iiitbh.ac.in) started an organization called  [DG Community : IIIT Bhagalpur](https://github.com/DGIIIT) to get people together who share common struggles 
+[Saichethan M. Reddy] along with two other  Undergraduate students Anuranjan Kumar and Pritam Pal of [IIIT Bhagalpur](http://iiitbh.ac.in) started an organization called  [DG Community : IIIT Bhagalpur](https://github.com/DGIIIT) to get people together who share common struggles 
 ![Logo](https://github.com/DGIIIT/DG-IIITBH.github.io/blob/master/img/logo.svg)
 ## Inception
 02 January 2018
@@ -32,6 +32,8 @@ All the communications are done through
 * We appreciate your support even if you think you did small part
 * Freedom of idea's, speech are our at our core
 
+for more information visit [Code of Conduct](https://dgiiit.github.io/conduct.html)
+
 # Proposal
 
 ## Community Demographics:
@@ -45,7 +47,7 @@ All the communications are done through
 ## Impact
 
 ### Target Audience
-K-12, Undergraduate students
+Undergraduate students
 
 
 
